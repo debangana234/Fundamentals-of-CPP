@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C20-Debug-270d4d30630fcc6e1a27.json",
+					"name" : "C20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Debangana1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Debangana1.cpp-Debug-37d5265443c8f7454bf9.json",
+					"name" : "Debangana1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Debangana3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Debangana3-Debug-e3b32acc508301190354.json",
+					"name" : "Debangana3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Debangana4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Debangana4-Debug-aa81ac56b2e2d40eee53.json",
+					"name" : "Debangana4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Testing_Debugging::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Testing_Debugging-Debug-4dd09654e843cb82af55.json",
+					"name" : "Testing_Debugging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Understanding_set::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Understanding_set-Debug-47204a7cfbdb1be572f6.json",
+					"name" : "Understanding_set",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Understanding_templates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Understanding_templates-Debug-2c43f70f94ec850584c7.json",
+					"name" : "Understanding_templates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "new_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-new_target-Debug-dcca55ccd430322527da.json",
+					"name" : "new_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-Debug-23f25ea8ee6798daafa9.json",
+					"name" : "task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task3-Debug-b45f2bd1a1ba68b3e892.json",
+					"name" : "task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task4-Debug-97cdbbfae88c22d722cc.json",
+					"name" : "task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task5-Debug-839003196f6ff0c1365c.json",
+					"name" : "task5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug",
+		"source" : "/Users/debangana/Desktop/s8dechak_2581774/assignment4/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

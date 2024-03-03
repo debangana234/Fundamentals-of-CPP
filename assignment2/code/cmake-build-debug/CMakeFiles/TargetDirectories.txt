@@ -1,0 +1,6 @@
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/task2.dir
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/task3.dir
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/task4.dir
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/task5.dir
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/debangana/s8dechak_2581774/assignment2/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

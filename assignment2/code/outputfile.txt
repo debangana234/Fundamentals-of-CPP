@@ -1,0 +1,4 @@
+chr1	100	21000	cluster=1
+chr1	250	18000	cluster=1
+chr1	21000	24000	cluster=2
+chr2	1300	10800	cluster=3

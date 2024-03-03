@@ -1,0 +1,14 @@
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/task2.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/task3.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/task4.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/task5.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Debangana1.cpp.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/new_target.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Debangana3.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Debangana4.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Understanding_set.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Understanding_templates.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/Testing_Debugging.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/C20.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/debangana/Desktop/s8dechak_2581774/assignment4/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

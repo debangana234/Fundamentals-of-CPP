@@ -1,0 +1,16 @@
+# ninja log v5
+454	488	1708280234125661266	Testing_Debugging	a0aa678a812dfd4
+3	454	1708280234089836088	CMakeFiles/Testing_Debugging.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Testing_Debugging.cpp.o	67cb45fe36adc7ad
+3	329	1708105030519616917	CMakeFiles/Understanding_set.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Understanding_set.cpp.o	bdf7d360d4d56ff8
+3	289	1708091827804643240	CMakeFiles/Debangana4.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Debangana4.cpp.o	a55f505a1e6d1310
+3	260	1708083305221960722	CMakeFiles/Debangana3.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Debangana3.cpp.o	ac77123051b6085
+2	427	1708176290983394584	CMakeFiles/Understanding_templates.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Understanding_templates.cpp.o	660f77ea3cb6d840
+454	485	1708076300662282836	Debangana1.cpp	24404b902f5ec9a1
+0	45	1709495243439744950	build.ninja	31af70114d754cf8
+3	454	1708076300629616643	CMakeFiles/Debangana1.cpp.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Debangana1.cpp.o	f0c1f6fb453d008e
+290	317	1708091827834510865	Debangana4	92117a62e42dedcb
+261	289	1708083305252383430	Debangana3	3018e7d7ea3e65b6
+250	279	1708081149452533122	new_target	a792be001fcb7f6
+329	359	1708105030551966775	Understanding_set	2787002955826883
+427	460	1708176291017987262	Understanding_templates	46ff0c194016d8db
+2	249	1708081149421598165	CMakeFiles/new_target.dir/Users/debangana/Desktop/s8dechak_2581774/assignment5/code/Debangana2.cpp.o	cb3783690d68a5a7
