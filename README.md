@@ -1,4 +1,5 @@
 ## Course Webpage
+The project contains assignments from the course and some code snippets explaining the basic concepts in C++ like copy constructors, move constructors, copy assignment, move assignmenta and other data structures in C++
 https://cms.sic.saarland/prog_bi_23/
 
 ## Structure
