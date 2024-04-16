@@ -6,7 +6,7 @@
 #include<set>
 using namespace std;
 
-/*template <typename T, int n>
+template <typename T, int n>
 class Array
         {
 private:
@@ -21,9 +21,9 @@ int main()
 {
     Array<int, 6> a;
     cout << a.size_array()<<endl;
-} */
+} 
 
-/*class Complex{
+class Complex{
 public:
     float real;
     float imaginary;
@@ -53,13 +53,13 @@ int main()
 
     std::cout << complex_sum.real<< " "<< complex_sum.imaginary<< " " <<endl;
     return 0;
-} */
+} 
 
 
 
 #include <iostream>
 
-/*class Complex {
+class Complex {
 public:
     float real;
     float imaginary;
@@ -82,9 +82,9 @@ int main() {
 
     std::cout << complex_sum.real << " " << complex_sum.imaginary << std::endl;
     return 0;
-} */
+} 
 
-/*template <typename T>
+template <typename T>
 T add(T a, T b)
 {
    return (a+b);
@@ -95,21 +95,6 @@ int main()
 {
     cout << add (14, 15)<< endl;
     cout<< add(14.5, 15.5)<<endl;
-} */
+} 
 
 
-class DerefCompare{
-       bool operator()(const string **s1, const string **s2) const { return *s1 > *s2;}
-    };
-int main()
-{
-    set <std::string,DerefCompare > myset;
-    string str1= "Debangana";
-    string str2 = "Chakraborty";
-    string str3 = "Paul";
-    myset.insert(str1);
-    myset.insert(str2);
-    myset.insert(str3);
-
-
-}

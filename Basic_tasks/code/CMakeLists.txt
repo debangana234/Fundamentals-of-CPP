@@ -64,12 +64,15 @@ elseif(MSVC)
 endif()
 
 # add the executables
-add_executable(task2 task2.cpp)
-add_executable(task3 task3.cpp)
-add_executable(task4 task4.cpp)
-add_executable(task5a task5a.cpp gff_entry.hpp)
-add_executable(task5b task5b.cpp gff_entry.hpp)
-add_executable(Debangana1 Debangana1.cpp)
+add_executable(basic1 basic_concepts.cpp)
+add_executable(basic2 basic_concepts1.cpp)
+add_executable(basic3 basic_concepts2.cpp)
+add_executable(basic4 basic_concepts3.cpp)
+add_executable(basic5 basic_concepts4.cpp)
+add_executable(basic6 basic_concepts5.cpp)
+add_executable(basic7 basic_concepts6.cpp)
+add_executable(basic8 basic_concepts7.cpp)
+add_executable(basic9 simple_functions.cpp)
 
 
 # link with libraries
@@ -78,11 +81,19 @@ if(NOT WIN32)
         set(CXX_ABI c++abi)
     endif()
     if("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang")
-        target_link_libraries(task2 ${CXX_ABI})
-        target_link_libraries(task3 ${CXX_ABI})
-        target_link_libraries(task4 ${CXX_ABI})
-        target_link_libraries(task5 ${CXX_ABI})
-        target_link_libraries(Debangana1 ${CXX_ABI})
+        target_link_libraries(basic1 ${CXX_ABI})
+        target_link_libraries(basic2 ${CXX_ABI})
+        target_link_libraries(basic3 ${CXX_ABI})
+        target_link_libraries(basic4 ${CXX_ABI})
+        target_link_libraries(basic5 ${CXX_ABI})
+        target_link_libraries(basic6 ${CXX_ABI})
+        target_link_libraries(basic7 ${CXX_ABI})
+        target_link_libraries(basic8 ${CXX_ABI})
+        target_link_libraries(basic9 ${CXX_ABI})
+
+
+
+
 
     endif()
 endif()
